@@ -3,7 +3,7 @@ Projects and work of note
 
 # Introduction
 My name is Logan Tidstrom, and I am a software engineer with experience in backend and full-stack development, big data, data analytics, and search tenchologies.
-I am originally from Boulder, Colorado, and I graduated with a double major, completing a B.S. in Computer Science and a B.S. in Spanish.
+I am originally from Boulder, Colorado, and I graduated from the University of Michigan - Ann Arbor (Go Blue!) with a double major, completing a B.S. in Computer Science and a B.S. in Spanish.
 
 Through work experience, I have gained  skills in numerous technologies, including Spark, Scala, Kotlin, Groovy, Python, SQL, React, Javascript, MongoDB, PostgreSQL, Hive, Kafka, and Oozie, among others.
 I am interested in continuing to learn new skills, and aim to find meaningful ways to contribute to the world via software development.
