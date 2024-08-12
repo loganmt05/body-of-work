@@ -2,10 +2,10 @@
 Projects and work of note
 
 # Introduction
-My name is Logan Tidstrom, and I am a software engineer with experience in backend and full-stack development, big data, data analytics, and search tenchologies.
-I am originally from Boulder, Colorado, and I graduated from the University of Michigan - Ann Arbor (Go Blue!) with a double major, completing a B.S. in Computer Science and a B.S. in Spanish.
+My name is Logan Tidstrom, and I am a software engineer with experience in backend and full-stack development, big data, data analytics, and search technologies.
+I am originally from Boulder, Colorado, and I graduated from the University of Michigan - Ann Arbor with a double major, completing a B.S. in Computer Science and a B.S. in Spanish.
 
-Through work experience, I have gained  skills in numerous technologies, including Spark, Scala, Kotlin, Groovy, Python, SQL, React, Javascript, MongoDB, PostgreSQL, Hive, Kafka, and Oozie, among others.
+Through work experience, I have gained skills in numerous technologies, including Spark, Scala, Kotlin, Groovy, Python, SQL, React, Javascript, MongoDB, PostgreSQL, Hive, Kafka, and Oozie, among others.
 I am interested in continuing to learn new skills, and aim to find meaningful ways to contribute to the world via software development.
 
 Outside of work, you can find me playing sports (basketball, volleyball, or swimming), reading books, catching a movie at the theater, or practicing new languages on Duolingo.
@@ -21,7 +21,11 @@ MMP handles message creation from start to finish, by:
 4) automating and monitoring the pipelines that determine relevant trigger messages for guests (including abandoned cart and browse history reminders)
 
 Major contributions:
-- 
+- [Data pipeline Spark job for cart aggregation](mmp-contributions/cart_aggregation.md)
+- [Oozie workflow and coordination creation for email content aggregation](mmp-contributions/workflow_coordinator_creation.md)
+- [Addition of new message types and cart cleanup](mmp-contributions/new_message_types.md)
+- [Workflow migration to Argus/Shepherd](mmp-contributions/shepherd_workflow_migration.md)
+- [On-Call/Support](mmp-contributions/on_call_support.md)
 
 
 ## Target: Technology Leadership Program
@@ -42,7 +46,7 @@ After my second TLP rotation, I chose to stay on my second team (see section abo
 
 
 # Leadership Experience
-I am passionate about mentorship, and have participated as a mentor in programs in both high school and college.
+I am passionate about mentorship, and participated as a mentor in programs in both high school and college.
 I am grateful I have been able to continue serving as a mentor during my career through various opportunities:
 
 ## Target Technology Leadership Program Onboarding
@@ -66,6 +70,7 @@ I led a daily retro with the Pod Coaches assigned to the cohort to validate prog
 My manager selected me as the lead mentor for one of our summer interns.
 I provided guidance to the intern by suggesting stories to work on and setting up foundational informational sessions on each aspect of our product to help the intern feel comfortable on the team.
 I set up regular pair programming sessions and ensured I was an accessible resource for any questions to help the intern past any blockers and to guide him toward independent work by the end of the internship.
+By the end of the internship, the intern completed a new API endpoint for our backend service, and contributed a script that backs up Hive data to Postgres.
 
 ### Genesys Works Intern Mentor (2023)
 My manager assigned me as the lead mentor for our Genesys Works high school intern.
