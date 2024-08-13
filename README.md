@@ -1,6 +1,3 @@
-# body-of-work
-Projects and work of note
-
 # Introduction
 My name is Logan Tidstrom, and I am a software engineer with experience in backend and full-stack development, big data, data analytics, and search technologies.
 I am originally from Boulder, Colorado, and I graduated from the University of Michigan - Ann Arbor with a double major, completing a B.S. in Computer Science and a B.S. in Spanish.
